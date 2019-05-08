@@ -1,0 +1,6 @@
+/home/kabugov/CS1XA3/Project02/webpagecv.html:358:               <p> - Create a TODO Log: Creates a .log file containing the location of all lines in files with the '#TODO' tag </p>
+/home/kabugov/CS1XA3/Project01/project_analyze.sh:8:echo "1 - Create TODO Log: Creates a .log file containing the location of all lines in files with the '#TODO' tag"
+/home/kabugov/CS1XA3/Project01/project_analyze.sh:35:		lines=$(grep -Rn '#TODO' ~/CS1XA3)
+/home/kabugov/CS1XA3/Project01/project_analyze.sh:45:		lines=$(grep -Rn '#TODO' ~/CS1XA3)
+/home/kabugov/CS1XA3/Project01/README.md:17:	1 - Create TODO Log: Creates a .log file containing the location of all lines in files with the '#TODO' tag
+/home/kabugov/CS1XA3/Project01/README.md:32: - It searches all files in the repository for lines containing the '#TODO' tag
